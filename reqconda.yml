@@ -1,0 +1,4 @@
+name: plpc-env
+channels:
+  - defaults
+prefix: /home/santa/.conda/envs/plpc-env
